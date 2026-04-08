@@ -1,0 +1,2 @@
+# Online-Shopping-Sales-Analysis-using-Excel-and-Power-BI-Blink-Store-2024-
+To collect, process, and analyze online shopping sales data of Blink Store for the year 2024 by first organizing the dataset in Microsoft Excel, converting it into a CSV format for efficient data handling, and then importing it into Power BI to create an interactive dashboard for visualizing revenue, product performance, and sales trends.
